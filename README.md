@@ -3,14 +3,17 @@ This repository showcases my work from ITAI 2372 – AI Applications, including 
 
 Contents
 1. Machine Learning Projects
+
 NASA Space Mission Classification  
 End‑to‑end ML pipeline for classifying mission types using preprocessing, feature engineering, and model evaluation.
 
-2. Video Case Study
+3. Video Case Study
+
 Abuse of AI in Industry (Synthesia Video)  
 In‑depth analysis of harmful AI use cases, risks, and mitigation strategies.
 
-3. Industry Case Studies
+4. Industry Case Studies
+
 AGI in Healthcare
 
 AI in Manufacturing (Siemens + Waste Reduction Proposal)
