@@ -7,12 +7,12 @@ Contents
 NASA Space Mission Classification  
 End‑to‑end ML pipeline for classifying mission types using preprocessing, feature engineering, and model evaluation.
 
-3. Video Case Study
+2. Video Case Study
 
 Abuse of AI in Industry (Synthesia Video)  
 In‑depth analysis of harmful AI use cases, risks, and mitigation strategies.
 
-4. Industry Case Studies
+3. Industry Case Studies
 
 AGI in Healthcare
 
