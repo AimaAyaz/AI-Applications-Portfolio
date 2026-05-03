@@ -1,0 +1,22 @@
+# NASA Space Mission Classification — Project Summary
+
+This project focuses on building a machine learning model to classify NASA space missions based on mission data. The goal was to understand how supervised learning can be applied to real-world scientific datasets and to practice the full ML workflow from preprocessing to evaluation.
+
+## Objective
+To classify NASA missions into categories using structured mission data and machine learning techniques.
+
+## What I Did
+- Cleaned and preprocessed the dataset (handling missing values, encoding categories, scaling features).
+- Performed exploratory data analysis to understand mission patterns.
+- Engineered features to improve model performance.
+- Trained multiple classification models and compared their accuracy.
+- Evaluated results using metrics such as accuracy, confusion matrix, and classification report.
+
+## Key Learnings
+- How to build an end-to-end ML pipeline.
+- How preprocessing affects model performance.
+- How to compare models and choose the best one.
+- How ML can support scientific research and mission planning.
+
+## Outcome
+A working classification model capable of predicting mission categories with strong accuracy, demonstrating practical machine learning skills and real-world data handling.
