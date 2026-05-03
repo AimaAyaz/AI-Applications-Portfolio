@@ -33,6 +33,7 @@ AI in Healthcare & Agriculture Notes
 Comprehensive notes covering ML, NLP, computer vision, robotics, multimodal AI, ethical frameworks, and emerging trends.
 
 Skills Demonstrated
+
 Machine Learning & Data Analysis
 
 AI Ethics & Responsible AI
