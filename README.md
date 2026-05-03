@@ -89,4 +89,4 @@ It represents my growth in understanding how AI works, how it is used across ind
 ## Contact
 Aima Ayaz  
 Email: w216981450@student.hccs.edu
-GitHub: your-repo-link-here
+GitHub: https://github.com/AimaAyaz/AI-Applications-Portfolio.git
