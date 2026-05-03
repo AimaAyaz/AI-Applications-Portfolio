@@ -30,9 +30,10 @@ AI in Smart Cities
 AI in Healthcare & Agriculture Notes
 
 4. Course Notes
+   
 Comprehensive notes covering ML, NLP, computer vision, robotics, multimodal AI, ethical frameworks, and emerging trends.
 
-Skills Demonstrated
+Skills Demonstrated:
 
 Machine Learning & Data Analysis
 
@@ -46,5 +47,6 @@ Real‑world AI Applications
 
 Python & ML Workflow Understanding
 
-Purpose
+Purpose:
+
 This portfolio is designed for employers, instructors, and collaborators to review my work and understand my capabilities in applied AI.
