@@ -10,6 +10,7 @@ Files included:
 - Code scripts
 - Results and visualizations
 - Project Zip file
+- Summary of the project
 
 ## 2. Abuse of AI in Industry (Synthesia Video)
 A video case study analyzing harmful uses of AI such as deepfakes, surveillance misuse, and algorithmic manipulation.
